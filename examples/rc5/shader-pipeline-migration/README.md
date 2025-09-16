@@ -4,7 +4,7 @@ Contains example code of how to use various shaders in Phaser 4. This is the sam
 
 [<img src="https://i.ytimg.com/vi/4Dj5PSKwjak/hqdefault.jpg">](https://youtu.be/4Dj5PSKwjak "Phaser 3 Tutorial: Getting Started with Shaders!")
 
-You can see a live demo of the examples here: [Shader Examples](https://devshareacademy.github.io/phaser-3-typescript-games-and-examples/examples/shader-examples/index.html)
+You can see a live demo of the examples here: <a href="https://devshareacademy.github.io/phaser-4-typescript-games-and-examples/examples/rc5/shader-pipeline-migration/index.html" target="_blank">Shader Examples</a>.
 
 While viewing the examples, if you press the `space` key, you can navigate between various examples. Below is a list of the examples shaders that can be seen and the corresponding files to that example:
 
