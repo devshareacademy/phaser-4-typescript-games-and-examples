@@ -2,7 +2,7 @@
 
 Contains example code of how to use various shaders in Phaser 4. This is the sample code that I shared in my tutorial video hosted on YouTube here were we walk through migrating some existing Phaser 3 shaders to the Phaser 4:
 
-[<img src="https://i.ytimg.com/vi/4Dj5PSKwjak/hqdefault.jpg">](https://youtu.be/4Dj5PSKwjak "Phaser 3 Tutorial: Getting Started with Shaders!")
+[<img src="https://i.ytimg.com/vi/Icj0eieReSg/hqdefault.jpg">](https://youtu.be/Icj0eieReSg "Migrating Phaser 3 Shaders to Phaser 4 – Beam Renderer Tutorial")
 
 You can see a live demo of the examples here: <a href="https://devshareacademy.github.io/phaser-4-typescript-games-and-examples/examples/rc5/shader-pipeline-migration/index.html" target="_blank">Shader Examples</a>.
 
