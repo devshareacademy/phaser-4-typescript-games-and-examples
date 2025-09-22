@@ -1,0 +1,188 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/simple-keys/A.png",
+                "frameConfig": {
+                    "frameWidth": 19,
+                    "frameHeight": 21,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "A"
+            },
+            {
+                "url": "assets/animations.json",
+                "type": "animation",
+                "key": "animations"
+            },
+            {
+                "url": "assets/simple-keys/B.png",
+                "frameConfig": {
+                    "frameWidth": 19,
+                    "frameHeight": 21,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "B"
+            },
+            {
+                "url": "assets/simple-keys/C.png",
+                "frameConfig": {
+                    "frameWidth": 19,
+                    "frameHeight": 21,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "C"
+            },
+            {
+                "url": "assets/simple-keys/D.png",
+                "frameConfig": {
+                    "frameWidth": 19,
+                    "frameHeight": 21,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "D"
+            },
+            {
+                "url": "assets/simple-keys/DOWN.png",
+                "frameConfig": {
+                    "frameWidth": 19,
+                    "frameHeight": 21,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "DOWN"
+            },
+            {
+                "url": "assets/simple-keys/LEFT.png",
+                "frameConfig": {
+                    "frameWidth": 19,
+                    "frameHeight": 21,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "LEFT"
+            },
+            {
+                "url": "assets/simple-keys/M.png",
+                "frameConfig": {
+                    "frameWidth": 19,
+                    "frameHeight": 21,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "M"
+            },
+            {
+                "url": "assets/simple-keys/O.png",
+                "frameConfig": {
+                    "frameWidth": 19,
+                    "frameHeight": 21,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "O"
+            },
+            {
+                "url": "assets/simple-keys/RIGHT.png",
+                "frameConfig": {
+                    "frameWidth": 19,
+                    "frameHeight": 21,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "RIGHT"
+            },
+            {
+                "url": "assets/simple-keys/S.png",
+                "frameConfig": {
+                    "frameWidth": 19,
+                    "frameHeight": 21,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "S"
+            },
+            {
+                "url": "assets/simple-keys/SPACE.png",
+                "frameConfig": {
+                    "frameWidth": 98,
+                    "frameHeight": 21,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "SPACE"
+            },
+            {
+                "url": "assets/simple-keys/UP.png",
+                "frameConfig": {
+                    "frameWidth": 19,
+                    "frameHeight": 21,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "UP"
+            },
+            {
+                "url": "assets/simple-keys/W.png",
+                "frameConfig": {
+                    "frameWidth": 19,
+                    "frameHeight": 21,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "W"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false,
+        "visible": true
+    }
+}
