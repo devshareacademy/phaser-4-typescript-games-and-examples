@@ -2,7 +2,7 @@
 
 Contains example code of how to create animations in Phaser 4. This is the sample code that I shared in my tutorial video hosted on YouTube here:
 
-Coming soon...
+[<img src="https://i.ytimg.com/vi/qFmaZACjqUU/hqdefault.jpg">](https://youtu.be/qFmaZACjqUU "Animate Sprite Sheets in Phaser 4 Made Easy (Beginner’s Guide)")
 
 You can see a live demo of the example here: <a href="https://devshareacademy.github.io/phaser-4-typescript-games-and-examples/examples/rc5/animate-sprites/index.html" target="_blank">Animations Example</a>
 
