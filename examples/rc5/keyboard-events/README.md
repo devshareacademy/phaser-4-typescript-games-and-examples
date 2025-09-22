@@ -2,7 +2,7 @@
 
 Contains example code of how to use keyboard events in Phaser 4. This is the sample code that I shared in my tutorial video hosted on YouTube here:
 
-Coming soon...
+[<img src="https://i.ytimg.com/vi/rUuO1TojQl8/hqdefault.jpg">](https://youtu.be/rUuO1TojQl8 "Phaser 4 Keyboard Input Made Easy (Beginner’s Tutorial)")
 
 You can see a live demo of the example here: <a href="https://devshareacademy.github.io/phaser-4-typescript-games-and-examples/examples/rc5/keyboard-events/index.html" target="_blank">Keyboard Events</a>
 
