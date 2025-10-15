@@ -1,0 +1,15 @@
+export const ASSET_KEYS = Object.freeze({
+  BACKGROUND: 'BACKGROUND',
+  FOREGROUND_1: 'FOREGROUND_1',
+  FOREGROUND_2: 'FOREGROUND_2',
+  CASTLE: 'CASTLE',
+  FOG: 'FOG',
+  SKY: 'SKY',
+  SNOW_1: 'SNOW_1',
+  SNOW_2: 'SNOW_2',
+});
+
+export const SCENE_KEYS = Object.freeze({
+  LOADING_SCENE: 'LOADING_SCENE',
+  GAME_SCENE: 'GAME_SCENE',
+});
