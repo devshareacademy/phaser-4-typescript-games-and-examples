@@ -14,9 +14,9 @@ While viewing the examples, if you press the `space` key, you can navigate betwe
 | Screen Wipe | Example of how to use custom variables in a shader to create animations, like a scene transition. | `./src/shaders/wipe-shader.ts` |
 | Noise Mix | Example of how to pass an addition texture to a shader and mix this texture with the original texture. Used to create a grainy effect. | `./src/shaders/noise-shader.ts` |
 
-![Shader Examples 1](./docs/example.gif?raw=true)
+![Shader Examples 1](https://devshareacademy.github.io/cdn/images/documentation/examples/phaser-4/shader-pipeline-migration/example.gif?raw=true)
 
-![Shader Examples 2](./docs/example2.gif?raw=true)
+![Shader Examples 2](https://devshareacademy.github.io/cdn/images/documentation/examples/phaser-4/shader-pipeline-migration/example2.gif?raw=true)
 
 ## Local Development
 

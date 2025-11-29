@@ -6,7 +6,7 @@ export class LoadingScene extends Phaser.Scene {
   }
 
   preload(): void {
-    this.load.setPath('assets');
+    this.load.setBaseURL('https://devshareacademy.github.io/cdn/images/asset-packs/ansimuz/aliens');
     this.#loadImages();
     this.#loadSpriteSheets();
   }

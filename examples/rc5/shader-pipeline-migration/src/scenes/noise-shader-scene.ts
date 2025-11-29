@@ -15,8 +15,8 @@ export class NoiseShaderScene extends Phaser.Scene {
 
   preload(): void {
     // load in data
-    this.load.image(IMAGE_ASSET_KEY, 'assets/images/bg.png');
-    this.load.image(SHADER_ASSET_KEY, 'assets/images/noise.png');
+    this.load.image(IMAGE_ASSET_KEY, 'https://devshareacademy.github.io/cdn/images/asset-packs/monster-tamer/misc/background.png');
+    this.load.image(SHADER_ASSET_KEY, 'https://devshareacademy.github.io/cdn/images/misc/shader/noise.png');
 
     this.load.glsl('noise', 'assets/shader/noise.frag');
   }

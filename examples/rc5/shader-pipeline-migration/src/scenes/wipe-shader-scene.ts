@@ -10,7 +10,7 @@ export class WipeShaderScene extends Phaser.Scene {
 
   preload(): void {
     // load in data
-    this.load.image(IMAGE_ASSET_KEY, 'assets/images/bg.png');
+    this.load.image(IMAGE_ASSET_KEY, 'https://devshareacademy.github.io/cdn/images/asset-packs/monster-tamer/misc/background.png');
     // load our custom shader program
     // NOTE: the key here is the key we provide in our BaseFilterShader class
     this.load.glsl('wipe', 'assets/shader/wipe.frag');
