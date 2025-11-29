@@ -6,7 +6,7 @@ Contains example code of how to use keyboard events in Phaser 4. This is the sam
 
 You can see a live demo of the example here: <a href="https://devshareacademy.github.io/phaser-4-typescript-games-and-examples/examples/rc5/keyboard-events/index.html" target="_blank">Keyboard Events</a>
 
-![Keyboard events demo in Phaser 4](./docs/example.gif?raw=true)
+![Keyboard events demo in Phaser 4](https://devshareacademy.github.io/cdn/images/documentation/examples/phaser-4/keyboard-events/example.gif?raw=true)
 
 ## Local Development
 

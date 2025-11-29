@@ -6,7 +6,7 @@ Contains example code of how to create animations in Phaser 4. This is the sampl
 
 You can see a live demo of the example here: <a href="https://devshareacademy.github.io/phaser-4-typescript-games-and-examples/examples/rc5/animate-sprites/index.html" target="_blank">Animations Example</a>
 
-![Animation example in phaser 4](./docs/example.gif?raw=true)
+![Animation example in phaser 4](https://devshareacademy.github.io/cdn/images/documentation/examples/phaser-4/animate-sprites/example.gif?raw=true)
 
 ## Local Development
 

@@ -1,5 +1,6 @@
 export const ASSET_KEYS = Object.freeze({
   ASSET_PACK: 'ASSET_PACK',
+  ANIMATIONS: 'ANIMATIONS',
 });
 
 export const SCENE_KEYS = Object.freeze({

@@ -20,4 +20,4 @@ const game = new Phaser.Game(gameConfig);
 game.scene.add('GreyScaleShaderScene', GreyScaleShaderScene);
 game.scene.add('WipeShaderScene', WipeShaderScene);
 game.scene.add('NoiseShaderScene', NoiseShaderScene);
-game.scene.start('GreyScaleShaderScene');
+game.scene.start('NoiseShaderScene');

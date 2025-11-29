@@ -2,7 +2,7 @@
     "section1": {
         "files": [
             {
-                "url": "assets/simple-keys/A.png",
+                "url": "https://devshareacademy.github.io/cdn/images/asset-packs/beamedeighth/keyboard/A.png",
                 "frameConfig": {
                     "frameWidth": 19,
                     "frameHeight": 21,
@@ -20,7 +20,7 @@
                 "key": "animations"
             },
             {
-                "url": "assets/simple-keys/B.png",
+                "url": "https://devshareacademy.github.io/cdn/images/asset-packs/beamedeighth/keyboard/B.png",
                 "frameConfig": {
                     "frameWidth": 19,
                     "frameHeight": 21,
@@ -33,7 +33,7 @@
                 "key": "B"
             },
             {
-                "url": "assets/simple-keys/C.png",
+                "url": "https://devshareacademy.github.io/cdn/images/asset-packs/beamedeighth/keyboard/C.png",
                 "frameConfig": {
                     "frameWidth": 19,
                     "frameHeight": 21,
@@ -46,7 +46,7 @@
                 "key": "C"
             },
             {
-                "url": "assets/simple-keys/D.png",
+                "url": "https://devshareacademy.github.io/cdn/images/asset-packs/beamedeighth/keyboard/D.png",
                 "frameConfig": {
                     "frameWidth": 19,
                     "frameHeight": 21,
@@ -59,7 +59,7 @@
                 "key": "D"
             },
             {
-                "url": "assets/simple-keys/DOWN.png",
+                "url": "https://devshareacademy.github.io/cdn/images/asset-packs/beamedeighth/keyboard/DOWN.png",
                 "frameConfig": {
                     "frameWidth": 19,
                     "frameHeight": 21,
@@ -72,7 +72,7 @@
                 "key": "DOWN"
             },
             {
-                "url": "assets/simple-keys/LEFT.png",
+                "url": "https://devshareacademy.github.io/cdn/images/asset-packs/beamedeighth/keyboard/LEFT.png",
                 "frameConfig": {
                     "frameWidth": 19,
                     "frameHeight": 21,
@@ -85,7 +85,7 @@
                 "key": "LEFT"
             },
             {
-                "url": "assets/simple-keys/M.png",
+                "url": "https://devshareacademy.github.io/cdn/images/asset-packs/beamedeighth/keyboard/M.png",
                 "frameConfig": {
                     "frameWidth": 19,
                     "frameHeight": 21,
@@ -98,7 +98,7 @@
                 "key": "M"
             },
             {
-                "url": "assets/simple-keys/O.png",
+                "url": "https://devshareacademy.github.io/cdn/images/asset-packs/beamedeighth/keyboard/O.png",
                 "frameConfig": {
                     "frameWidth": 19,
                     "frameHeight": 21,
@@ -111,7 +111,7 @@
                 "key": "O"
             },
             {
-                "url": "assets/simple-keys/RIGHT.png",
+                "url": "https://devshareacademy.github.io/cdn/images/asset-packs/beamedeighth/keyboard/RIGHT.png",
                 "frameConfig": {
                     "frameWidth": 19,
                     "frameHeight": 21,
@@ -124,7 +124,7 @@
                 "key": "RIGHT"
             },
             {
-                "url": "assets/simple-keys/S.png",
+                "url": "https://devshareacademy.github.io/cdn/images/asset-packs/beamedeighth/keyboard/S.png",
                 "frameConfig": {
                     "frameWidth": 19,
                     "frameHeight": 21,
@@ -137,7 +137,7 @@
                 "key": "S"
             },
             {
-                "url": "assets/simple-keys/SPACE.png",
+                "url": "https://devshareacademy.github.io/cdn/images/asset-packs/beamedeighth/keyboard/SPACE.png",
                 "frameConfig": {
                     "frameWidth": 98,
                     "frameHeight": 21,
@@ -150,7 +150,7 @@
                 "key": "SPACE"
             },
             {
-                "url": "assets/simple-keys/UP.png",
+                "url": "https://devshareacademy.github.io/cdn/images/asset-packs/beamedeighth/keyboard/UP.png",
                 "frameConfig": {
                     "frameWidth": 19,
                     "frameHeight": 21,
@@ -163,7 +163,7 @@
                 "key": "UP"
             },
             {
-                "url": "assets/simple-keys/W.png",
+                "url": "https://devshareacademy.github.io/cdn/images/asset-packs/beamedeighth/keyboard/W.png",
                 "frameConfig": {
                     "frameWidth": 19,
                     "frameHeight": 21,
