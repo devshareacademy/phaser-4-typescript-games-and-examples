@@ -13,6 +13,15 @@ Each sub project includes a `README.md` file that has more details on that parti
 
 You can find the live demos of the various examples here: <a href="https://devshareacademy.github.io/phaser-4-typescript-games-and-examples/" target="_blank">Examples</a>.
 
+## 🚀 Fast Clone (recommended)
+
+This repo contains a lot of past history from older examples.  
+To download ONLY the latest code (tiny download), use a shallow clone:
+
+```bash
+git clone --depth 1 https://github.com/devshareacademy/phaser-4-typescript-games-and-examples.git
+```
+
 ## Issues
 
 For any issues you encounter, please open a new <a href="https://github.com/devshareacademy/phaser-4-typescript-games-and-examples/issues" target="_blank">GitHub Issue</a> on this project.
